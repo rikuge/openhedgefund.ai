@@ -2,7 +2,7 @@
 name = "openhedgefund.ai"
 version = "0.1.0"
 description = ""
-authors = ["Stefan <stefanvanderleeden@gmail.com>"]
+authors = ["Stefan <stefanvanderleeden@gmail.com>", "Jim"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
