@@ -8,6 +8,8 @@ authors = ["Stefan <stefanvanderleeden@gmail.com>"]
 python = "^3.8"
 requests = "^2.28.1"
 pandas = "^1.4.3"
+Backtesting = "^0.3.3"
+TA-lib = {file = "sandbox/TA_Lib-0.4.24-cp38-cp38-win_amd64.whl"}
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
